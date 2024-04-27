@@ -1,2 +1,2 @@
 # temp
-A repository exist for the tome being
+A repository exist for the time being
